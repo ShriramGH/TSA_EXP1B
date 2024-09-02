@@ -5,7 +5,7 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on Russian Equipment Losses specificalyy Methi Price Data.
+To perform regular differncing,seasonal adjustment and log transformatio on Vegetable Price specificalyy Methi Price Data.
 
 ### ALGORITHM:
 
